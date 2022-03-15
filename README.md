@@ -24,3 +24,7 @@
 
   - [Jupyter Notebook - Detecção de Fraudes em Cartão de Crédito - Machine Learning Models](https://bit.ly/3ASmJVW) 
   - [Medium - Detecção de Fraudes em Cartão de Crédito: Construindo Modelos de Machine Learning](https://ygorml.org/detec%C3%A7%C3%A3o-de-fraudes-em-cart%C3%A3o-de-cr%C3%A9dito-construindo-modelos-de-machine-learning-3484a39afee6)
+
+<br>
+
+  - [Jupyter Notebook - Churn Prediction para uma empresa de Telecomunicações](https://bit.ly/3MHxEXM) 
